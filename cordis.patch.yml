@@ -1,0 +1,3 @@
+- insert:
+    - id: jellyfish-theme
+      name: '@local/jellyfish-theme'
